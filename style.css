@@ -1,0 +1,38 @@
+img.circular {
+    border-radius: 50%;
+    height: 340px;
+    width: 300px;
+    object-fit: cover;
+    margin-left: 465px;
+}
+
+.about-title {
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 170px;
+    text-decoration: underline;
+}
+li {
+    color: black;
+    font-weight: bold;
+  }
+  
+  h1{
+      color: darkblue;
+  }
+
+  h2{
+      color: darkblue;
+  }
+
+  h3{
+      color: darkblue;
+  }
+   
+  p{
+      color: black;
+      font-weight: bold;
+  }
+
+
+    
